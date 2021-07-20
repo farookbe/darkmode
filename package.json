@@ -1,0 +1,19 @@
+{
+  "name": "dark-mode-images",
+  "version": "1.0.0",
+  "description": "Demonstrate dark mode switching with image support. Option with and without JavaScript\n\nVideo: https://youtu.be/RXOuEaBShvU",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "11.1.0"
+  },
+  "keywords": [
+    "dark mode",
+    "prefers-color-scheme",
+    "dark mode images",
+    "dark light switching"
+  ]
+}
